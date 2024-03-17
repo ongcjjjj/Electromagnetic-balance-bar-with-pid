@@ -26,3 +26,8 @@ Extensive experimentation confirms the scientific and practical validity of our 
 4. Vertical attitude correction can be applied to solar panels, wind turbines, and even aerospace vehicles like rockets and satellites.
 
 Overall, the "Unfalling Rod" experiment holds substantial promise for practical applications across various fields, ranging from meteorology to aerospace engineering, and its innovative approach and automation capabilities render it highly desirable for scientific research and industrial utilization.
+
+the design of pcb
+
+<img width="439" alt="截屏2024-03-17 13 48 45" src="https://github.com/ongcjjjj/Electromagnetic-balance-bar-with-pid/assets/36626346/662dc1cd-9b99-4e54-883c-0b93df64b065">
+
