@@ -5,7 +5,7 @@ Use electromagnetic balance to help keep the rod down
 
 （CHINA UNDERGRADUATE PHYSICS EXPERIMENT COMPETITION）
 
-Describe:
+**Describe:**
 
 The primary objective of the "Unfalling Rod" experiment is to deepen the understanding of physical concepts such as angular momentum, moment of inertia, and equilibrium stability, while exploring how objects maintain balance under minor disturbances. Through this experiment, we can investigate the stability and equilibrium conditions of objects and derive formulas such as the rotational inertia of a rod, thereby enhancing comprehension of the law of conservation of angular momentum. Furthermore, this experiment aids in exploring various phenomena and principles in physics, including rotation, precession, and stability, thereby improving the experimental skills and scientific literacy of learners.
 
@@ -27,7 +27,7 @@ Extensive experimentation confirms the scientific and practical validity of our 
 
 Overall, the "Unfalling Rod" experiment holds substantial promise for practical applications across various fields, ranging from meteorology to aerospace engineering, and its innovative approach and automation capabilities render it highly desirable for scientific research and industrial utilization.
 
-the design of pcb
+**the design of pcb**
 
 <img width="439" alt="截屏2024-03-17 13 48 45" src="https://github.com/ongcjjjj/Electromagnetic-balance-bar-with-pid/assets/36626346/662dc1cd-9b99-4e54-883c-0b93df64b065">
 
